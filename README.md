@@ -1,7 +1,3 @@
-### Hi there 👋
-
-Life is too short to read this in paragraph form.
-
 - 💼 I am a data scientist and software engineer, looking for work.
 - ✈️ I am from Sacramento, San Jose, and Seattle.
 - 🛠️ I am currently working on some things I think are cool: [Big Brother Barometer](https://github.com/vermarish/docs-BBBarometer), [LeagHue](https://github.com/vermarish/LeagHue), PitchFinder.
